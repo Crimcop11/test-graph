@@ -61,16 +61,16 @@ Deploy a simple LangGraph application with 1 node (conversation agent using Open
 
 ### Phase 4: Version Control Setup
 9. **Initialize Git repository**
-   - [ ] Run `git init` in project directory
-   - [ ] Create `.gitignore` file (exclude .env, __pycache__, etc.)
-   - [ ] Add all project files to Git
-   - [ ] Create initial commit
+   - [x] Run `git init` in project directory
+   - [x] Create `.gitignore` file (exclude .env, __pycache__, etc.)
+   - [x] Add all project files to Git
+   - [x] Create initial commit
 
 10. **Set up GitHub repository**
-    - [ ] Create new repository on GitHub
-    - [ ] Add remote origin to local repository
-    - [ ] Push code to GitHub main branch
-    - [ ] Verify all files are properly uploaded
+    - [x] Create new repository on GitHub
+    - [x] Add remote origin to local repository
+    - [x] Push code to GitHub main branch
+    - [x] Verify all files are properly uploaded
 
 ### Phase 5: LangGraph Platform Deployment
 11. **Deploy to LangGraph Platform**

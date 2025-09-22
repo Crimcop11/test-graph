@@ -34,6 +34,14 @@ venv.bak/
 .env.development.local
 .env.test.local
 .env.production.local
+.env.api_keys
+.env.secrets
+
+# API Keys and Secrets
+api_keys.txt
+secrets.txt
+*.key
+*.pem
 
 # LangGraph API files
 .langgraph_api/
