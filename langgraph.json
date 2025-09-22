@@ -1,10 +1,11 @@
 {
-  "dependencies": ["./my_agent", "."],
+  "dependencies": ["."],
   "graphs": {
     "agent": "./my_agent/agent.py:graph"
   },
   "env": ".env",
   "auth": {
     "path": "./auth.py:auth"
-  }
+  },
+  "image_distro": "wolfi"
 }
