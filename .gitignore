@@ -35,6 +35,9 @@ venv.bak/
 .env.test.local
 .env.production.local
 
+# LangGraph API files
+.langgraph_api/
+
 # IDE
 .vscode/
 .idea/
