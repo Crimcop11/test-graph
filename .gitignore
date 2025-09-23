@@ -69,3 +69,8 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# Documentation and test files
+docs/
+test_*.py
+*_test.py
